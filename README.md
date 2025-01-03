@@ -51,7 +51,7 @@ RegisterNumber:24002063
 ![SYN EX11](https://github.com/user-attachments/assets/54c63e6a-60bf-4b12-bcfd-35be76c80ad8)
 
 ### **TIMING DIAGRAM FOR IP COUNTER**
-![syn wf](https://github.com/user-attachments/assets/31ae5321-98c9-47ba-bb97-8668af76c74b)
+![syn wf](https://github.com/user-attachments/assets/f06c33ec-b7f8-4848-918f-4a39600f076c)
 
 ### **TRUTH TABLE**
 ![SYN truth table](https://github.com/user-attachments/assets/e7d0b589-78e0-4844-bbf8-7d2289081470)
